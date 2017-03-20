@@ -1,16 +1,16 @@
-####The Windows User's Walkthrough of GitHub
+#### The Windows User's Walkthrough of GitHub
 
 Github provides a lot of great support for Windows users that you might not be aware of, from GitHub Desktop and Git Shell to the VS Extension. If you've ever wanted to see the forest for the trees in getting started on GitHub or you're looking to grow beyond those 5 Git commands you use every day, or you're curious what some of the newest GitHub features are, swing by for a walkthrough of GitHub from the Windows user's perspective!
 
-####Poll
+#### Poll
 - New to git and github?
 - Know the basics?
 - Never have to delete the .git folder?
 
-####GitHub Cheatsheet
+#### GitHub Cheatsheet
 - https://education.github.com/git-cheat-sheet-education.pdf
 
-####GitHub Desktop
+#### GitHub Desktop
 - https://desktop.github.com/
 - For no other reasons: Install for authentication and .gitattribute files to handle file ending 
 
@@ -36,28 +36,28 @@ Github provides a lot of great support for Windows users that you might not be a
  - Add a couple of console.writelines and a console.read()
  - Similar to git add --patch and git add --interactive
 		
-####Git Shell 
+#### Git Shell 
  - Stop using the command prompt, especially if you have 2FA (and you should)
  - DEMO
    - How to specify which shell
 
-####Visual Studio extension
+#### Visual Studio extension
  - Maintainer workflow scenarios 
  - DEMO
 		- DemoApplication - updated program.cs with message
  - Mention Start Page roaming profile
 
-####Unity plugin
+#### Unity plugin
 
 found at http://unity.github.com
 
-####GitHub Features I wished I had known about
+#### GitHub Features I wished I had known about
  - Pull Requests are start of a conversation. You can still update the PR by updating the branch at any time.
  - Use '?' to see keyboard shortcuts
  - How to add a Readme and/or license
  - Gists https://gist.github.com/
 	
-####GitHub Features
+#### GitHub Features
  - Pull request reviewers, requests, and filters - https://github.com/blog/2306-filter-pull-request-reviews-and-review-requests
    - DEMO 
      - Have drofaras leave a pull request
@@ -72,7 +72,7 @@ found at http://unity.github.com
 - GitHub Pages 
 	- https://saraford.net/2017/02/18/how-to-use-git-io-to-shorten-github-urls-and-create-vanity-urls-049/
 
-####More git
+#### More git
 
 - http://git-school.github.io/visualizing-git/
 - http://ohshitgit.com/
